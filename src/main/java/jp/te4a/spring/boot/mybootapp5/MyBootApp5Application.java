@@ -1,10 +1,11 @@
-package jp.te4a.spring.boot.mybootapp4;
+package jp.te4a.spring.boot.mybootapp5;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyBootApp4Application{
+public class MyBootApp5Application{
+	
     public static void main(String[] args) {
-         SpringApplication.run(MyBootApp4Application.class, args);
+         SpringApplication.run(MyBootApp5Application.class, args);
     }
 }
